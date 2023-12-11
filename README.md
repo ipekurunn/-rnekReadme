@@ -12,7 +12,7 @@ Follow the steps below to start the project in your local environment.
 - npm (Node.js package manager)
 - Firebase CLI (To run Firebase Functions locally)
 
-### Instalation
+### Installation
 1. Clone the repo:
     ```bash
     git clone https://github.com/muhasebe-pro/backend.git
